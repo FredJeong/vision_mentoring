@@ -111,3 +111,8 @@ with open('cities.json', 'w') as cityfile:
 ## 학생 목록 가져오기
 
 `VM_data.ipynb` 노트북 실행 후, `The content below is real code that generates list of participants` 섹션의 코드를 실행한다.
+
+## 문의
+* 정태희 (wwee3631@gmail.com)
+
+코드 수정 및 firebase deploy 필요시, firebase를 공부하고 오세요!
